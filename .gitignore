@@ -1,0 +1,8 @@
+*~
+*.pdf
+*.pyc
+#*#
+.RData
+.#*
+.Rhistory
+*.fasta
